@@ -1,0 +1,992 @@
+brand,car_model,model_year,transmission,body_type,fuel_type,engine_capacity,kilometers_run,price
+Toyota,Fielder,2016,Automatic,Estate,CNG and OIL,1500,45852,1200000
+Toyota,Starlet,1992,Automatic,Saloon,CNG and OIL,1300,15000,330000
+Toyota,Carina,1998,Automatic,Saloon,CNG and OIL,1500,60720,200000
+Toyota,Corolla,2009,Automatic,Saloon,CNG and OIL,1500,70000,950000
+Toyota,Other Model,1996,Automatic,Estate,CNG and OIL,1331,120000,350000
+Toyota,Fielder,2001,Automatic,Estate,CNG and OIL,1500,75000,799000
+Toyota,Fielder,2001,Automatic,Estate,CNG and OIL,1500,79250,785000
+Toyota,Probox,2003,Automatic,Estate,CNG and OIL,1300,84000,570000
+Toyota,Probox,2003,Automatic,Estate,CNG and OIL,1500,68425,675000
+Toyota,Probox,2003,Automatic,Estate,CNG and OIL,1500,85000,625000
+Toyota,Succeed,2003,Automatic,Estate,CNG and OIL,1500,74500,599000
+Toyota,Fielder,2004,Automatic,Estate,CNG and OIL,1500,75050,955000
+Toyota,Fielder,2004,Automatic,Estate,CNG and OIL,1500,98112,935000
+Toyota,Fielder,2004,Automatic,Estate,CNG and OIL,1500,68465,985000
+Toyota,Fielder,2004,Automatic,Estate,CNG and OIL,1500,65000,1050000
+Toyota,Fielder,2004,Automatic,Estate,CNG and OIL,1500,65000,1050000
+Toyota,Probox,2004,Automatic,Estate,CNG and OIL,1300,65000,570000
+Toyota,Probox,2004,Automatic,Estate,CNG and OIL,1500,90000,530000
+Toyota,Spacio,2004,Automatic,Estate,CNG and OIL,1500,62300,668000
+Toyota,Succeed,2004,Automatic,Estate,CNG and OIL,1500,54000,655000
+Toyota,Wish,2004,Automatic,Estate,CNG and OIL,1800,88611,1085000
+Toyota,Fielder,2005,Automatic,Estate,CNG and OIL,1500,59700,1030000
+Toyota,Fielder,2005,Automatic,Estate,CNG and OIL,1500,62000,990000
+Toyota,Succeed,2005,Automatic,Estate,CNG and OIL,1500,72000,780000
+Toyota,Fielder,2006,Automatic,Estate,CNG and OIL,1500,55000,1050000
+Toyota,Fielder,2006,Automatic,Estate,CNG and OIL,1500,73000,1025000
+Toyota,Fielder,2006,Automatic,Estate,CNG and OIL,1500,75400,1020000
+Toyota,Fielder,2009,Automatic,Estate,CNG and OIL,1500,70000,1150000
+Toyota,Fielder,2010,Automatic,Estate,CNG and OIL,1500,55000,1240000
+Toyota,Probox,2010,Automatic,Estate,CNG and OIL,1500,71000,850000
+Toyota,Probox,2010,Automatic,Estate,CNG and OIL,1500,72000,850000
+Toyota,Axio,2011,Automatic,Estate,CNG and OIL,1500,56000,1160000
+Toyota,Probox,2011,Automatic,Estate,CNG and OIL,1500,75320,890000
+Toyota,Fielder,2012,Automatic,Estate,CNG and OIL,1500,82000,1270000
+Toyota,Probox,2012,Automatic,Estate,CNG and OIL,1500,42000,890000
+Toyota,Axio,2013,Automatic,Estate,CNG and OIL,1500,47900,1485000
+Toyota,Raum,2015,Automatic,Estate,CNG and OIL,1500,75000,1040000
+Toyota,Starlet,1995,Automatic,Hatchback,CNG and OIL,1500,96000,280000
+Toyota,Other Model,1999,Automatic,Hatchback,CNG and OIL,1000,89000,299000
+Toyota,Corolla,2001,Automatic,Hatchback,CNG and OIL,1500,89000,390000
+Toyota,Spacio,2001,Automatic,Hatchback,CNG and OIL,1500,65236,925000
+Honda,CR-V,2002,Automatic,Hatchback,CNG and OIL,2000,82000,925000
+Suzuki,Alto,2003,Manual,Hatchback,CNG and OIL,1000,200,225000
+Toyota,ist,2003,Automatic,Hatchback,CNG and OIL,1500,63256,885000
+Toyota,Fielder,2004,Automatic,Hatchback,CNG and OIL,150,63000,990000
+Toyota,Probox,2004,Automatic,Hatchback,CNG and OIL,1500,75000,595000
+Toyota,Probox,2004,Automatic,Hatchback,CNG and OIL,1500,55000,635000
+Toyota,Raum,2004,Automatic,Hatchback,CNG and OIL,1500,57580,890000
+Toyota,ist,2005,Automatic,Hatchback,CNG and OIL,1300,73000,700000
+Toyota,Succeed,2005,Automatic,Hatchback,CNG and OIL,1500,64512,680000
+Toyota,Rush,2006,Automatic,Hatchback,CNG and OIL,1500,79000,1035000
+Toyota,Axio,2009,Automatic,Hatchback,CNG and OIL,1500,73000,1230000
+Toyota,Probox,2010,Automatic,Hatchback,CNG and OIL,1300,87000,620000
+Toyota,Fielder,2011,Automatic,Hatchback,CNG and OIL,1500,65000,970000
+Toyota,TownAce,1995,Manual,MPV,CNG and OIL,1500,90000,320000
+Toyota,Noah,1997,Automatic,MPV,CNG and OIL,2000,79800,535000
+Toyota,Hiace,1998,Manual,MPV,CNG and OIL,2000,78643,520000
+Toyota,Noah,1998,Automatic,MPV,CNG and OIL,2500,100000,850000
+Toyota,Noah,1998,Automatic,MPV,CNG and OIL,2000,86000,980000
+Toyota,Noah,2000,Automatic,MPV,CNG and OIL,2000,65800,800000
+Toyota,Noah,2002,Automatic,MPV,CNG and OIL,2000,90000,965000
+Toyota,Noah,2002,Automatic,MPV,CNG and OIL,2000,78123,1120000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,2000,81000,1060000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,2000,81000,1050000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,1781,76000,830000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,2000,116000,965000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,1800,65000,950000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,1800,65000,920000
+Toyota,Hiace,2004,Automatic,MPV,CNG and OIL,1996,121000,1190000
+Toyota,Hiace,2004,Automatic,MPV,CNG and OIL,2000,4283,695000
+Toyota,Noah,2004,Automatic,MPV,CNG and OIL,1800,112000,865000
+Toyota,Noah,2004,Automatic,MPV,CNG and OIL,1800,95000,950000
+Toyota,Noah,2004,Automatic,MPV,CNG and OIL,1800,81644,1035000
+Toyota,Other Model,2004,Automatic,MPV,CNG and OIL,1500,55000,650000
+Toyota,Sienta,2004,Automatic,MPV,CNG and OIL,1500,73000,790000
+Toyota,Hiace,2005,Automatic,MPV,CNG and OIL,1990,89000,1490000
+Toyota,Hiace,2005,Automatic,MPV,CNG and OIL,2000,96000,1195000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,94000,1090000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,52345,1330000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,1800,85000,1035000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,38000,1280000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,68700,1290000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,69800,1295000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,38125,1280000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,1800,68000,860000
+Toyota,Other Model,2005,Automatic,MPV,CNG and OIL,2000,55000,1220000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,70000,1050000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,53423,1180000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,77000,900000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,127000,1080000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,81000,1135000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,85000,1325000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,68580,1190000
+Toyota,Noah,2007,Automatic,MPV,CNG and OIL,2000,85000,1395000
+Toyota,Hiace,2008,Automatic,MPV,CNG and OIL,2000,85000,1570000
+Toyota,Noah,2008,Automatic,MPV,CNG and OIL,1500,75500,645000
+Toyota,Noah,2008,Automatic,MPV,CNG and OIL,1998,63200,1598000
+Toyota,Noah,2008,Automatic,MPV,CNG and OIL,2000,75000,1660000
+Toyota,TownAce,2008,Automatic,MPV,CNG and OIL,1500,71000,645000
+Toyota,Hiace,2009,Automatic,MPV,CNG and OIL,1998,56000,1800000
+Toyota,Noah,2009,Automatic,MPV,CNG and OIL,2000,76585,1765000
+Toyota,TownAce,2009,Automatic,MPV,CNG and OIL,1500,89000,720000
+Toyota,Avanza,2010,Automatic,MPV,CNG and OIL,1500,68452,1285000
+Toyota,Hiace,2010,Automatic,MPV,CNG and OIL,2000,72000,1795000
+Toyota,Hiace,2010,Automatic,MPV,CNG and OIL,2000,69000,1195000
+Toyota,Hiace,2011,Automatic,MPV,CNG and OIL,2000,79831,2135000
+Toyota,Hiace,2011,Automatic,MPV,CNG and OIL,1500,64000,2150000
+Toyota,Hiace,2011,Automatic,MPV,CNG and OIL,2000,64000,2150000
+Toyota,LiteAce,2011,Automatic,MPV,CNG and OIL,1500,95000,440000
+Toyota,Noah,2011,Automatic,MPV,CNG and OIL,2000,56230,2045000
+Toyota,Noah,2011,Automatic,MPV,CNG and OIL,2000,94585,1965000
+Toyota,Noah,2011,Automatic,MPV,CNG and OIL,2000,73388,2065000
+Toyota,Hiace,2012,Automatic,MPV,CNG and OIL,2000,75000,1320000
+Toyota,LiteAce,2012,Automatic,MPV,CNG and OIL,1500,56000,850000
+Toyota,Noah,2012,Automatic,MPV,CNG and OIL,2000,65480,2290000
+Toyota,Hiace,2013,Automatic,MPV,CNG and OIL,2000,55000,2420000
+Toyota,Hiace,2013,Automatic,MPV,CNG and OIL,2000,65000,900000
+Toyota,Hiace,2013,Automatic,MPV,CNG and OIL,2000,68000,2050000
+Toyota,Noah,2013,Automatic,MPV,CNG and OIL,1996,62500,2265000
+Toyota,Hiace,2014,Automatic,MPV,CNG and OIL,2000,48990,2295000
+Toyota,Hiace,2014,Automatic,MPV,CNG and OIL,2000,65199,2620000
+Toyota,Hiace,2014,Automatic,MPV,CNG and OIL,2000,65000,2700000
+Toyota,Carina,1991,Automatic,Saloon,CNG and OIL,1500,125000,250000
+Toyota,Carina,1991,Automatic,Saloon,CNG and OIL,1500,100000,135000
+Toyota,Carina,1991,Automatic,Saloon,CNG and OIL,1500,99564,260000
+Toyota,Corolla,1991,Automatic,Saloon,CNG and OIL,1500,135000,365000
+Toyota,Sprinter,1991,Manual,Saloon,CNG and OIL,1300,134000,160000
+Toyota,Carina,1992,Automatic,Saloon,CNG and OIL,1500,69000,250000
+Toyota,Corolla,1992,Automatic,Saloon,CNG and OIL,1490,88000,430000
+Toyota,Sprinter,1992,Automatic,Saloon,CNG and OIL,1331,95000,280000
+Toyota,Carina,1993,Automatic,Saloon,CNG and OIL,1900,120000,230000
+Toyota,Other Model,1993,Automatic,Saloon,CNG and OIL,1500,95000,330000
+Toyota,Carina,1994,Automatic,Saloon,CNG and OIL,1500,91000,465000
+Toyota,Corona,1994,Automatic,Saloon,CNG and OIL,1500,95000,395000
+Toyota,Carina,1995,Automatic,Saloon,CNG and OIL,1500,80000,364000
+Toyota,Corolla,1995,Automatic,Saloon,CNG and OIL,1500,85000,430000
+Toyota,Corolla,1995,Manual,Saloon,CNG and OIL,1500,134000,270000
+Toyota,Corsa,1995,Automatic,Saloon,CNG and OIL,1331,120000,330000
+Toyota,Other Model,1995,Automatic,Saloon,CNG and OIL,1830,70000,400000
+Toyota,Corolla,1996,Automatic,Saloon,CNG and OIL,1331,40000,365000
+Toyota,Corona,1996,Automatic,Saloon,CNG and OIL,1600,78000,499000
+Toyota,Corona,1996,Automatic,Saloon,CNG and OIL,1586,86025,495000
+Toyota,Carina,1997,Automatic,Saloon,CNG and OIL,1500,78000,635000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1331,96000,420000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1331,75400,499000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1500,117328,550000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1331,68452,555000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1500,79000,545000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1500,69000,550000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1500,65000,650000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1500,56000,650000
+Toyota,Corona,1997,Automatic,Saloon,CNG and OIL,1580,95000,420000
+Toyota,Corona,1997,Automatic,Saloon,CNG and OIL,1600,95000,490000
+Toyota,Carina,1998,Automatic,Saloon,CNG and OIL,1500,70000,650000
+Toyota,Corolla,1998,Automatic,Saloon,CNG and OIL,1500,125885,570000
+Toyota,Corolla,1998,Automatic,Saloon,CNG and OIL,1331,50000,540000
+Toyota,Carina,1999,Automatic,Saloon,CNG and OIL,1500,136000,395000
+Toyota,Corolla,1999,Automatic,Saloon,CNG and OIL,1500,96000,565000
+Toyota,Corolla,1999,Automatic,Saloon,CNG and OIL,1331,57000,385000
+Toyota,Corolla,1999,Automatic,Saloon,CNG and OIL,1331,87965,485000
+Toyota,Corolla,1999,Automatic,Saloon,CNG and OIL,1500,72458,635000
+Toyota,Corolla,2000,Automatic,Saloon,CNG and OIL,1500,74500,595000
+Toyota,Corolla,2000,Automatic,Saloon,CNG and OIL,1500,75000,625000
+Toyota,Corolla,2000,Automatic,Saloon,CNG and OIL,1500,95000,675000
+Toyota,Corolla,2000,Automatic,Saloon,CNG and OIL,1500,82500,700000
+Toyota,Corona,2000,Automatic,Saloon,CNG and OIL,1500,75000,730000
+Toyota,Sprinter,2000,Automatic,Saloon,CNG and OIL,1331,75000,650000
+Toyota,Sprinter,2000,Automatic,Saloon,CNG and OIL,1331,75000,650000
+Toyota,Corolla,2001,Automatic,Saloon,CNG and OIL,1331,97846,350000
+Toyota,Corona,2001,Automatic,Saloon,CNG and OIL,1600,95000,510000
+Toyota,Corsa,2001,Manual,Saloon,CNG and OIL,1331,82000,350000
+Toyota,Allion,2002,Automatic,Saloon,CNG and OIL,1500,115221,950000
+Toyota,Corolla,2002,Automatic,Saloon,CNG and OIL,1500,90000,780000
+Toyota,Corolla,2002,Automatic,Saloon,CNG and OIL,1500,85749,925000
+Toyota,Corolla,2002,Automatic,Saloon,CNG and OIL,1500,65000,850000
+Toyota,Corolla,2002,Automatic,Saloon,CNG and OIL,1500,72000,890000
+Toyota,Premio,2002,Automatic,Saloon,CNG and OIL,1500,68532,970000
+Toyota,Premio,2002,Automatic,Saloon,CNG and OIL,1500,63000,1130000
+Toyota,Allion,2003,Automatic,Saloon,CNG and OIL,1500,56745,1190000
+Toyota,Allion,2003,Automatic,Saloon,CNG and OIL,1500,63200,995000
+Toyota,Allion,2003,Automatic,Saloon,CNG and OIL,1500,69500,1045000
+Toyota,Allion,2003,Automatic,Saloon,CNG and OIL,1500,68448,1085000
+Toyota,Corolla,2003,Automatic,Saloon,CNG and OIL,1500,78500,465000
+Toyota,Corolla,2003,Automatic,Saloon,CNG and OIL,1500,65732,927000
+Toyota,Corolla,2003,Automatic,Saloon,CNG and OIL,1500,104500,900000
+Toyota,Corolla,2003,Automatic,Saloon,CNG and OIL,1500,92000,840000
+Mitsubishi,Lancer,2003,Automatic,Saloon,CNG and OIL,1300,57000,620000
+Toyota,Premio,2003,Automatic,Saloon,CNG and OIL,1500,82000,1110000
+Toyota,Probox,2003,Automatic,Saloon,CNG and OIL,1500,96000,625000
+Toyota,Allion,2004,Automatic,Saloon,CNG and OIL,1500,76000,1080000
+Toyota,Allion,2004,Automatic,Saloon,CNG and OIL,1500,75000,1095000
+Toyota,Allion,2004,Automatic,Saloon,CNG and OIL,1500,85000,995000
+Toyota,Allion,2004,Automatic,Saloon,CNG and OIL,1500,65000,1195000
+Toyota,Allion,2004,Automatic,Saloon,CNG and OIL,1500,65000,1195000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1500,85000,1095000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1500,69000,985000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1331,68425,955000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1500,78965,990000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1500,68000,960000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1500,68000,965000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1331,75500,870000
+Honda,Fit,2004,Automatic,Saloon,CNG and OIL,1300,46000,655000
+Toyota,ist,2004,Automatic,Saloon,CNG and OIL,1331,63422,785000
+Toyota,Other Model,2004,Automatic,Saloon,CNG and OIL,1500,99000,990000
+Toyota,Premio,2004,Automatic,Saloon,CNG and OIL,1500,69000,1240000
+Toyota,Premio,2004,Automatic,Saloon,CNG and OIL,1500,65700,1255000
+Toyota,Premio,2004,Automatic,Saloon,CNG and OIL,1500,82303,1295000
+Toyota,Probox,2004,Automatic,Saloon,CNG and OIL,1331,98500,645000
+Toyota,Probox,2004,Automatic,Saloon,CNG and OIL,1500,80000,655000
+Toyota,Probox,2004,Automatic,Saloon,CNG and OIL,1500,68000,625000
+Toyota,Raum,2004,Automatic,Saloon,CNG and OIL,1500,68700,810000
+Nissan,Sunny,2004,Automatic,Saloon,CNG and OIL,1500,74698,740000
+Maruti Suzuki,WagonR,2004,Manual,Saloon,CNG and OIL,1061,73000,215000
+Toyota,Allion,2005,Automatic,Saloon,CNG and OIL,1500,90000,1149999
+Toyota,Allion,2005,Automatic,Saloon,CNG and OIL,1500,59000,1200000
+Toyota,Allion,2005,Automatic,Saloon,CNG and OIL,1500,75000,1175000
+Toyota,Allion,2005,Automatic,Saloon,CNG and OIL,1500,72700,1165000
+Toyota,Allion,2005,Automatic,Saloon,CNG and OIL,1500,75000,1160000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,84000,1075000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,130000,1000000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,69000,975000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,82753,1025000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,79231,1085000
+Toyota,Premio,2005,Automatic,Saloon,CNG and OIL,1500,95000,1200000
+Toyota,Premio,2005,Automatic,Saloon,CNG and OIL,1500,62365,1445000
+Toyota,Premio,2005,Automatic,Saloon,CNG and OIL,1500,95000,1110000
+Toyota,Premio,2005,Automatic,Saloon,CNG and OIL,1500,70000,1450000
+Toyota,Premio,2005,Automatic,Saloon,CNG and OIL,1500,78000,1235000
+Toyota,Allion,2006,Automatic,Saloon,CNG and OIL,1500,71000,1250000
+Toyota,Allion,2006,Automatic,Saloon,CNG and OIL,1500,69000,1195000
+Toyota,Allion,2006,Automatic,Saloon,CNG and OIL,1500,90000,1265000
+Toyota,Allion,2006,Automatic,Saloon,CNG and OIL,1500,71038,1365000
+Toyota,Corolla,2006,Automatic,Saloon,CNG and OIL,1500,76000,1090000
+Toyota,Corolla,2006,Automatic,Saloon,CNG and OIL,1500,45000,1110000
+Toyota,Corolla,2006,Automatic,Saloon,CNG and OIL,1500,70000,1225000
+Toyota,Corolla,2006,Automatic,Saloon,CNG and OIL,1500,70305,1095000
+Toyota,Other Model,2006,Automatic,Saloon,CNG and OIL,1500,68000,1420000
+Toyota,Premio,2006,Automatic,Saloon,CNG and OIL,1500,68000,1280000
+Toyota,Premio,2006,Automatic,Saloon,CNG and OIL,1500,68573,1350000
+Toyota,Premio,2006,Automatic,Saloon,CNG and OIL,1500,96000,1350000
+Toyota,Premio,2006,Automatic,Saloon,CNG and OIL,1500,82417,1395000
+Toyota,Allion,2007,Automatic,Saloon,CNG and OIL,1500,74000,1390000
+Toyota,Allion,2007,Automatic,Saloon,CNG and OIL,1500,65000,1370000
+Toyota,Allion,2007,Automatic,Saloon,CNG and OIL,1500,76585,1355000
+Toyota,Allion,2007,Automatic,Saloon,CNG and OIL,1500,79832,1490000
+Toyota,Allion,2007,Automatic,Saloon,CNG and OIL,1500,77000,1375000
+Toyota,Axio,2007,Automatic,Saloon,CNG and OIL,1500,66000,1065000
+Toyota,Axio,2007,Automatic,Saloon,CNG and OIL,1500,75000,1065000
+Toyota,Axio,2007,Automatic,Saloon,CNG and OIL,1500,77275,1030000
+Toyota,Axio,2007,Automatic,Saloon,CNG and OIL,1500,85000,1090000
+Toyota,Axio,2007,Automatic,Saloon,CNG and OIL,1500,75000,1090000
+Toyota,Axio,2007,Automatic,Saloon,CNG and OIL,1500,76000,955000
+Toyota,Corolla,2007,Automatic,Saloon,CNG and OIL,1500,90000,860000
+Toyota,Other Model,2007,Automatic,Saloon,CNG and OIL,1500,99000,1150000
+Toyota,Allion,2008,Automatic,Saloon,CNG and OIL,1500,65825,1540000
+Toyota,Allion,2008,Automatic,Saloon,CNG and OIL,1500,65000,1550000
+Toyota,Allion,2008,Automatic,Saloon,CNG and OIL,1500,78631,1210000
+Toyota,Axio,2008,Automatic,Saloon,CNG and OIL,1500,70000,1120000
+Toyota,Axio,2008,Automatic,Saloon,CNG and OIL,1500,54000,1095000
+Toyota,Axio,2008,Automatic,Saloon,CNG and OIL,1500,65000,1140000
+Toyota,Axio,2008,Automatic,Saloon,CNG and OIL,1500,68352,1130000
+Toyota,Axio,2008,Automatic,Saloon,CNG and OIL,1500,69536,1175000
+Toyota,Axio,2008,Automatic,Saloon,CNG and OIL,1496,85000,1340000
+Toyota,Corolla,2008,Automatic,Saloon,CNG and OIL,1500,49560,880000
+Mitsubishi,Lancer,2008,Automatic,Saloon,CNG and OIL,1300,100000,650000
+Toyota,Premio,2008,Automatic,Saloon,CNG and OIL,1500,79000,1620000
+Toyota,Premio,2008,Automatic,Saloon,CNG and OIL,1500,72000,1585000
+Toyota,Premio,2008,Automatic,Saloon,CNG and OIL,1500,86000,1035000
+Toyota,Premio,2008,Automatic,Saloon,CNG and OIL,1500,110000,1195000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,89600,1585000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,84000,1565000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,54326,1656000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,62000,1585000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,59280,1625000
+Toyota,Axio,2009,Automatic,Saloon,CNG and OIL,1500,58000,1210000
+Toyota,Axio,2009,Automatic,Saloon,CNG and OIL,1500,100000,1090000
+Toyota,Axio,2009,Automatic,Saloon,CNG and OIL,1500,78000,1199000
+Toyota,Axio,2009,Automatic,Saloon,CNG and OIL,1500,70000,1150000
+Toyota,Fielder,2009,Automatic,Saloon,CNG and OIL,1500,69000,915000
+Toyota,Hiace,2009,Automatic,Saloon,CNG and OIL,2000,81000,1225000
+Toyota,Premio,2009,Automatic,Saloon,CNG and OIL,1500,65000,1695000
+Toyota,Premio,2009,Automatic,Saloon,CNG and OIL,1500,52342,1745000
+Toyota,Premio,2009,Automatic,Saloon,CNG and OIL,1500,57849,1755000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,82000,1620000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,86000,1730000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,62700,1720000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,62300,1710000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,62300,1715000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,55100,1750000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,55056,1745000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,55060,1745000
+Toyota,Allion,2010,Automatic,Saloon,CNG and OIL,1500,82100,1120000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,75000,1180000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,75000,1125000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,88000,1200000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,58000,1320000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,68945,1295000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,87428,1220000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,58000,1290000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,58000,1295000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,58000,1295000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,58000,1295000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,89652,935000
+Toyota,Premio,2010,Automatic,Saloon,CNG and OIL,1500,53000,1870000
+Toyota,Axio,2011,Automatic,Saloon,CNG and OIL,1500,75200,1215000
+Toyota,Axio,2011,Automatic,Saloon,CNG and OIL,1500,65000,1265000
+Toyota,Axio,2011,Automatic,Saloon,CNG and OIL,1500,113014,1255000
+Toyota,Corolla,2011,Automatic,Saloon,CNG and OIL,1500,86000,1025000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,47800,1885000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,47900,1890000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,75000,1920000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,46230,1875000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,62000,1920000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,55000,1785000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,62000,1950000
+Toyota,Probox,2011,Automatic,Saloon,CNG and OIL,1500,100000,590000
+Toyota,Allion,2012,Automatic,Saloon,CNG and OIL,1500,62343,1750000
+Toyota,Allion,2012,Automatic,Saloon,CNG and OIL,1500,59000,1780000
+Toyota,Axio,2012,Automatic,Saloon,CNG and OIL,1500,98000,1330000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,45360,2130000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,62000,2085000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,57300,2050000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,77865,2020000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,90440,2025000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,72421,2050000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,75000,1240000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,78952,1780000
+Toyota,Allion,2013,Automatic,Saloon,CNG and OIL,1500,96000,1315000
+Toyota,Allion,2013,Automatic,Saloon,CNG and OIL,1800,78542,1590000
+Toyota,Axio,2013,Automatic,Saloon,CNG and OIL,1500,45300,1445000
+Toyota,Axio,2013,Automatic,Saloon,CNG and OIL,1500,62554,1565000
+Toyota,Axio,2013,Automatic,Saloon,CNG and OIL,1500,65308,1455000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,73000,1940000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,43200,2150000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,43500,2145000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,43500,2155000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,43080,2145000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,63000,1640000
+Toyota,Allion,2014,Automatic,Saloon,CNG and OIL,1500,62000,2140000
+Toyota,Allion,2014,Automatic,Saloon,CNG and OIL,1500,61500,1290000
+Toyota,Allion,2014,Automatic,Saloon,CNG and OIL,1500,78000,1550000
+Toyota,Axio,2014,Automatic,Saloon,CNG and OIL,1500,37800,1580000
+Toyota,Axio,2014,Automatic,Saloon,CNG and OIL,1500,42000,920000
+Toyota,Axio,2014,Automatic,Saloon,CNG and OIL,1500,42000,920000
+Toyota,Axio,2014,Automatic,Saloon,CNG and OIL,1500,79852,1130000
+Toyota,Axio,2014,Automatic,Saloon,CNG and OIL,1500,58000,1190000
+Toyota,Premio,2014,Automatic,Saloon,CNG and OIL,1500,57842,2030000
+Toyota,Rush,2015,Automatic,Saloon,CNG and OIL,1500,67000,1145000
+Toyota,Fielder,2016,Automatic,Saloon,CNG and OIL,1500,56000,1295000
+Toyota,Premio,2016,Automatic,Saloon,CNG and OIL,1500,36980,2600000
+Toyota,Premio,2016,Automatic,Saloon,CNG and OIL,1500,78542,1895000
+Suzuki,Other Model,1993,Automatic,SUV / 4x4,CNG and OIL,1600,72000,460000
+Honda,CR-V,1997,Automatic,SUV / 4x4,CNG and OIL,2000,75000,750000
+Toyota,Kluger,2004,Automatic,SUV / 4x4,CNG and OIL,2400,88000,1625000
+Toyota,RAV4,2005,Automatic,SUV / 4x4,CNG and OIL,2000,70000,1480000
+Toyota,Noah,2006,Automatic,SUV / 4x4,CNG and OIL,1800,75000,1175000
+Toyota,Rush,2008,Automatic,SUV / 4x4,CNG and OIL,1500,65300,1045000
+Toyota,Avanza,2017,Automatic,SUV / 4x4,CNG and OIL,1500,13072,2390000
+Mitsubishi,Other Model,1996,Manual,MPV,OIL,2000,100000,200000
+Toyota,Hiace,2001,Automatic,MPV,OIL,2000,74452,795000
+Toyota,Hiace,2005,Manual,MPV,OIL,2500,120000,1290000
+Hyundai,H1,2011,Automatic,MPV,OIL,2400,55310,1750000
+Hyundai,H1,2012,Automatic,MPV,OIL,2400,65432,1750000
+Toyota,Hiace,2015,Automatic,MPV,OIL,3000,44000,1550000
+Tata,Indigo Ecs,2013,Manual,Saloon,OIL,1500,87521,450000
+Tata,Indigo Ecs,2013,Manual,Saloon,OIL,1500,79523,450000
+Tata,Indigo Ecs,2013,Manual,Saloon,OIL,1500,87523,450000
+Mitsubishi,Pajero,1993,Manual,SUV / 4x4,OIL,2500,75000,555555
+Toyota,Hiace,1999,Manual,SUV / 4x4,OIL,2700,8100,370000
+Nissan,Carryboy,2005,Automatic,SUV / 4x4,OIL,2389,85000,895000
+Toyota,Hilux,2005,Manual,SUV / 4x4,OIL,2779,85000,1390000
+Tata,Other Model,2006,Manual,SUV / 4x4,OIL,3700,64848,350000
+SsangYong,Other Model,2015,Automatic,SUV / 4x4,OIL,2000,32122,3000000
+Mahindra,Other Model,2017,Manual,SUV / 4x4,OIL,1500,55000,1550000
+Toyota,Axio,2015,Automatic,Estate,HYBRID,1500,65000,1590000
+Toyota,Fielder,2015,Automatic,Estate,HYBRID,1500,86000,1730000
+Toyota,Fielder,2015,Automatic,Estate,HYBRID,1500,85000,1680000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,58000,2180000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,77000,2180000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,35000,2170000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,49000,2160000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,75000,2190000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,94000,1800000
+Toyota,Prius,2016,Automatic,Estate,HYBRID,1800,39000,3100000
+Toyota,Aqua,2010,Automatic,Hatchback,HYBRID,1500,48650,1150000
+Toyota,Fielder,2013,Automatic,Hatchback,HYBRID,1500,35000,2050000
+Toyota,Aqua,2014,Automatic,Hatchback,HYBRID,1500,74521,1350000
+Toyota,Fielder,2014,Automatic,Hatchback,HYBRID,1500,50000,1620000
+Toyota,Aqua,2015,Automatic,Hatchback,HYBRID,1500,50200,1480000
+Toyota,Aqua,2015,Automatic,Hatchback,HYBRID,1500,54000,1430000
+Toyota,Aqua,2016,Automatic,Hatchback,HYBRID,1500,50500,1750000
+Toyota,Aqua,2016,Automatic,Hatchback,HYBRID,1500,40000,1920000
+Toyota,Fielder,2016,Automatic,Hatchback,HYBRID,1500,35000,1950000
+Toyota,Prius,2016,Automatic,Hatchback,HYBRID,1800,37000,2750000
+Toyota,Esquire,2016,Automatic,MPV,HYBRID,1800,34300,3175000
+Toyota,Esquire,2016,Automatic,MPV,HYBRID,1800,35000,3140000
+Toyota,Noah,2016,Automatic,MPV,HYBRID,1800,77000,3250000
+Toyota,Esquire,2017,Automatic,MPV,HYBRID,1800,81000,3970000
+Toyota,Noah,2017,Automatic,MPV,HYBRID,1800,43000,4120000
+Toyota,Axio,2014,Automatic,Saloon,HYBRID,1500,60000,1450000
+Honda,Grace,2014,Automatic,Saloon,HYBRID,1500,35000,1999999
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,99000,1800000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,51000,1650000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,50000,1650000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,39089,1510000
+Toyota,Allion,2016,Automatic,Saloon,HYBRID,1500,28000,3150000
+Mazda,Axela,2016,Automatic,Saloon,HYBRID,1500,68000,2250000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,71000,1850000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,36800,1975000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,52000,2450000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,34703,1950000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,45000,2300000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,39000,3650000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,30000,3920000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1500,55000,3200000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,48000,3150000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,86000,3200000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,30000,3150000
+Nissan,X-Trail,2018,Automatic,SUV / 4x4,HYBRID,2000,45000,4570000
+Toyota,Axio,2013,Automatic,Estate,HYBRID,1500,86215,1470000
+Toyota,Corolla,2015,Automatic,Estate,HYBRID,1500,34333,1870000
+Toyota,Noah,2016,Automatic,Estate,HYBRID,1800,77000,3050000
+Toyota,Aqua,2012,Automatic,Hatchback,HYBRID,1500,29950,1125000
+Toyota,Aqua,2013,Automatic,Hatchback,HYBRID,1500,42000,1185000
+Toyota,Aqua,2015,Automatic,Hatchback,HYBRID,1500,75104,1730000
+Toyota,Fielder,2016,Automatic,Hatchback,HYBRID,1500,34560,1620000
+Toyota,Fielder,2016,Automatic,Hatchback,HYBRID,1500,34560,1620000
+Toyota,Fielder,2016,Automatic,Hatchback,HYBRID,1500,34560,1620000
+Toyota,Prius,2016,Automatic,Hatchback,HYBRID,1800,34560,2100000
+Toyota,Noah,2014,Automatic,MPV,HYBRID,1797,53535,2545000
+Toyota,Esquire,2015,Automatic,MPV,HYBRID,1800,85000,2750000
+Toyota,Esquire,2016,Automatic,MPV,HYBRID,1800,52000,3230000
+Toyota,Esquire,2016,Automatic,MPV,HYBRID,1800,30718,2750000
+Toyota,Esquire,2016,Automatic,MPV,HYBRID,1800,43107,2750000
+Toyota,Esquire,2016,Automatic,MPV,HYBRID,1800,45214,2850000
+Toyota,Noah,2016,Automatic,MPV,HYBRID,1800,34175,2560000
+Toyota,Noah,2016,Automatic,MPV,HYBRID,1800,30724,2500000
+Toyota,Esquire,2017,Automatic,MPV,HYBRID,1800,25608,3845000
+Toyota,Noah,2017,Automatic,MPV,HYBRID,1800,62543,3180000
+Toyota,Aqua,2013,Automatic,Saloon,HYBRID,1500,52000,1120000
+Toyota,Axio,2013,Automatic,Saloon,HYBRID,1500,36000,1480000
+Toyota,Axio,2013,Automatic,Saloon,HYBRID,1500,29550,1455000
+Toyota,Prius,2013,Automatic,Saloon,HYBRID,1800,47000,1680000
+Toyota,Axio,2014,Automatic,Saloon,HYBRID,1500,41000,850000
+Toyota,Axio,2014,Automatic,Saloon,HYBRID,1500,81304,1490000
+Honda,Grace,2014,Automatic,Saloon,HYBRID,1500,45243,1650000
+Honda,Vezel,2014,Automatic,Saloon,HYBRID,1500,51000,1860000
+Toyota,Aqua,2015,Automatic,Saloon,HYBRID,1500,32420,1350000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,36000,1650000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,28889,1580000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,38172,1520000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,34560,1520000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,43107,1520000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,34560,1530000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,37091,1520000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,34550,1520000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,49521,1690000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,2015,90238,1710000
+Honda,Grace,2015,Automatic,Saloon,HYBRID,1500,28700,1795000
+Honda,Grace,2015,Automatic,Saloon,HYBRID,1500,49000,1990000
+Honda,Grace,2015,Automatic,Saloon,HYBRID,1500,38000,2000000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,56000,1800000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,131000,1829995
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,29704,1620000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,34560,1620000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,31804,1620000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,34072,1620000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,27000,2400000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,29704,1920000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,31720,1650000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,37150,1920000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,34182,1650000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,34450,1650000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,50358,1895000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,88000,2650000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,100000,2650000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,54000,2800000
+Honda,Grace,2017,Automatic,Saloon,HYBRID,1500,28000,2630000
+Honda,Grace,2017,Automatic,Saloon,HYBRID,1500,23000,2450000
+Honda,Grace,2017,Automatic,Saloon,HYBRID,1500,32463,2570000
+Honda,Grace,2017,Automatic,Saloon,HYBRID,1500,34520,2320000
+Honda,Grace,2017,Automatic,Saloon,HYBRID,1500,14939,2650000
+Honda,Grace,2018,Automatic,Saloon,HYBRID,1500,25000,2650000
+Honda,Vezel,2014,Automatic,SUV / 4x4,HYBRID,1500,45100,1900000
+Toyota,Esquire,2016,Automatic,SUV / 4x4,HYBRID,1800,34560,2980000
+Toyota,Esquire,2016,Automatic,SUV / 4x4,HYBRID,1800,38450,2980000
+Toyota,Noah,2016,Automatic,SUV / 4x4,HYBRID,1800,38450,2750000
+Toyota,Noah,2016,Automatic,SUV / 4x4,HYBRID,1800,34560,2550000
+Toyota,Noah,2016,Automatic,SUV / 4x4,HYBRID,1800,38450,2580000
+Honda,Vezel,2016,Automatic,SUV / 4x4,HYBRID,1500,34560,2650000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,36550,3450000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,35650,3450000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,44600,3400000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,66768,3250000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,34563,2750000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,20005,3080005
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,19005,3280005
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,22000,3250000
+Toyota,C-HR,2018,Automatic,SUV / 4x4,HYBRID,1800,65894,3400000
+Nissan,X-Trail,2018,Automatic,SUV / 4x4,HYBRID,2000,21817,4300000
+Nissan,X-Trail,2018,Automatic,SUV / 4x4,HYBRID,2000,31900,4642000
+Toyota,Fielder,2014,Automatic,Estate,HYBRID,1500,109000,1750000
+Toyota,Fielder,2014,Automatic,Estate,HYBRID,1500,84000,1750000
+Toyota,Aqua,2014,Automatic,Hatchback,HYBRID,1500,136000,1350000
+Toyota,Prius,2016,Automatic,Hatchback,HYBRID,1800,79000,2700000
+Honda,Grace,2014,Automatic,Saloon,HYBRID,1500,32000,2000000
+Toyota,Premio,2017,Automatic,Saloon,HYBRID,1500,44000,3150000
+Honda,Vezel,2014,Automatic,SUV / 4x4,HYBRID,1500,55000,2600000
+Honda,Vezel,2015,Automatic,SUV / 4x4,HYBRID,1500,47000,2750000
+Toyota,Corolla,2005,Automatic,Estate,OIL,1500,55256,1020000
+Mazda,Axela,2009,Automatic,Estate,OIL,1500,68452,1035000
+Toyota,Axio,2010,Automatic,Estate,OIL,1500,55000,1365000
+Toyota,Vitz,2010,Automatic,Estate,OIL,1000,60000,845000
+Toyota,Corolla,2011,Automatic,Estate,OIL,1500,56000,1450000
+Toyota,Sienta,2011,Automatic,Estate,OIL,1500,41000,1260000
+Toyota,Axio,2012,Automatic,Estate,OIL,1500,32323,1395000
+Toyota,Fielder,2012,Automatic,Estate,OIL,1500,52800,1361000
+Toyota,Fielder,2012,Automatic,Estate,OIL,1500,57369,1355000
+Toyota,Wish,2013,Automatic,Estate,OIL,1800,37000,2780000
+Toyota,Hiace,2016,Automatic,Estate,OIL,2000,65000,2370000
+Nissan,X-Trail,2016,Automatic,Estate,OIL,2000,42000,4500000
+Toyota,ist,2004,Automatic,Hatchback,OIL,1300,69000,720000
+Toyota,RunX,2004,Automatic,Hatchback,OIL,1500,80000,880000
+Nissan,Tiida,2004,Automatic,Hatchback,OIL,1500,65000,860000
+Toyota,Raum,2006,Automatic,Hatchback,OIL,1500,58652,985000
+Suzuki,Swift,2007,Manual,Hatchback,OIL,1300,56975,460000
+Toyota,Vitz,2009,Automatic,Hatchback,OIL,1500,60000,880000
+Toyota,Vitz,2010,Automatic,Hatchback,OIL,1000,56192,870000
+Toyota,Vitz,2010,Automatic,Hatchback,OIL,1300,51504,950000
+Suzuki,Alto,2011,Automatic,Hatchback,OIL,660,23500,590000
+Toyota,Axio,2011,Automatic,Hatchback,OIL,1500,47000,1370000
+Toyota,Vitz,2011,Automatic,Hatchback,OIL,1329,71000,1050000
+Toyota,Vitz,2011,Automatic,Hatchback,OIL,1300,37850,1095000
+Toyota,Vitz,2011,Automatic,Hatchback,OIL,1300,86000,925000
+Toyota,Vitz,2012,Automatic,Hatchback,OIL,1000,56248,985000
+Toyota,Vitz,2012,Automatic,Hatchback,OIL,1300,48500,985000
+Toyota,Vitz,2012,Automatic,Hatchback,OIL,1300,45000,1200000
+Toyota,Vitz,2015,Automatic,Hatchback,OIL,1000,73000,699000
+Suzuki,Swift,2017,Manual,Hatchback,OIL,1300,26000,850000
+Toyota,Other Model,1995,Automatic,MPV,OIL,3500,112255,1200000
+Mitsubishi,Pajero,1995,Manual,MPV,OIL,1100,73000,310000
+Honda,CR-V,1998,Automatic,MPV,OIL,2000,78671,830000
+Toyota,Noah,2005,Automatic,MPV,OIL,2000,82310,1200000
+Toyota,Passo,2009,Automatic,MPV,OIL,1500,68320,1275000
+Hyundai,H1,2010,Automatic,MPV,OIL,2400,65432,1580000
+Suzuki,Other Model,2011,Manual,MPV,OIL,1200,89652,520000
+Suzuki,Other Model,2011,Manual,MPV,OIL,1200,89653,520000
+Toyota,Noah,2012,Automatic,MPV,OIL,2000,48652,2370000
+Toyota,Noah,2013,Automatic,MPV,OIL,2000,48000,2350000
+Toyota,Hiace,2015,Automatic,MPV,OIL,2000,31950,2295000
+Toyota,Noah,2015,Automatic,MPV,OIL,2000,45000,1480000
+Honda,Vezel,2015,Automatic,MPV,OIL,1500,52000,2050000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,8000,2580000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,90000,3220000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,87000,2380000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,20005,2580000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,75000,2350000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,45557,2850000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,39500,2450000
+Honda,City,2000,Automatic,Saloon,OIL,1500,75000,490000
+Toyota,Corolla,2003,Automatic,Saloon,OIL,1500,118164,910000
+Nissan,Sunny,2003,Automatic,Saloon,OIL,1300,89000,490000
+Toyota,Corolla,2004,Automatic,Saloon,OIL,1500,60000,948000
+Toyota,Mark II,2004,Automatic,Saloon,OIL,2000,90000,1285000
+Nissan,Sunny,2004,Automatic,Saloon,OIL,1500,78554,655000
+Toyota,Allion,2005,Automatic,Saloon,OIL,1500,87500,1180000
+Toyota,Allion,2005,Automatic,Saloon,OIL,1500,69000,1145000
+Honda,Civic,2005,Automatic,Saloon,OIL,1500,78000,790000
+Toyota,Premio,2005,Automatic,Saloon,OIL,2000,24600,1250000
+Toyota,RAV4,2005,Automatic,Saloon,OIL,1800,76200,1565000
+Toyota,Allion,2006,Automatic,Saloon,OIL,1500,84313,1330000
+Toyota,Allion,2006,Automatic,Saloon,OIL,1500,69854,1330000
+Nissan,Bluebird,2006,Automatic,Saloon,OIL,1500,77000,1050000
+Toyota,Premio,2006,Automatic,Saloon,OIL,1500,65850,1350000
+Toyota,Premio,2007,Automatic,Saloon,OIL,1500,68543,1660000
+Toyota,Premio,2007,Automatic,Saloon,OIL,1500,61000,1530000
+Toyota,Premio,2008,Automatic,Saloon,OIL,1500,45623,1650000
+Toyota,Premio,2008,Automatic,Saloon,OIL,1500,67000,1660000
+Toyota,Axio,2009,Automatic,Saloon,OIL,1500,67300,1195000
+Toyota,Premio,2009,Automatic,Saloon,OIL,1500,75200,1825000
+Toyota,Premio,2009,Automatic,Saloon,OIL,1500,41000,1670000
+Nissan,Sunny,2009,Automatic,Saloon,OIL,1300,74812,820000
+Nissan,Tiida,2009,Automatic,Saloon,OIL,1500,60015,785000
+Toyota,Allion,2010,Automatic,Saloon,OIL,1500,62400,1720000
+Toyota,Allion,2010,Automatic,Saloon,OIL,1500,52202,1725000
+Toyota,Axio,2010,Automatic,Saloon,OIL,1500,62425,1275000
+Mitsubishi,Lancer,2010,Automatic,Saloon,OIL,1500,68000,1190000
+Toyota,Premio,2010,Automatic,Saloon,OIL,1500,72100,1955000
+Hyundai,Sonata,2010,Automatic,Saloon,OIL,2000,76000,1850000
+Toyota,Vitz,2010,Automatic,Saloon,OIL,1000,65000,720000
+Toyota,Axio,2011,Automatic,Saloon,OIL,1500,47000,1375000
+Toyota,Axio,2011,Automatic,Saloon,OIL,1500,50000,1355000
+Toyota,Axio,2011,Automatic,Saloon,OIL,1500,38550,1295000
+Toyota,Axio,2011,Automatic,Saloon,OIL,1500,70206,1350000
+Toyota,Passo,2011,Automatic,Saloon,OIL,1500,32343,1390000
+Toyota,Premio,2011,Automatic,Saloon,OIL,1500,43000,1980000
+Toyota,Premio,2011,Automatic,Saloon,OIL,1500,68289,1895000
+Toyota,Premio,2011,Automatic,Saloon,OIL,1500,62000,1760000
+Toyota,Sienta,2011,Automatic,Saloon,OIL,1500,49536,1428000
+Hyundai,Sonata,2011,Automatic,Saloon,OIL,2000,42312,1950000
+Suzuki,Swift,2011,Manual,Saloon,OIL,1300,45000,750000
+Suzuki,Swift,2011,Manual,Saloon,OIL,1300,50000,660000
+Toyota,Vitz,2011,Automatic,Saloon,OIL,1320,32432,1360000
+Hyundai,Accent,2012,Automatic,Saloon,OIL,1500,54100,1020000
+Hyundai,Accent,2012,Automatic,Saloon,OIL,1400,37000,1280000
+Hyundai,Accent,2012,Automatic,Saloon,OIL,1400,52345,1230000
+Hyundai,Accent,2012,Automatic,Saloon,OIL,1500,35850,1250000
+Toyota,Auris,2012,Automatic,Saloon,OIL,1500,48278,1475000
+Toyota,Axio,2012,Automatic,Saloon,OIL,1331,43212,1460000
+Toyota,Axio,2012,Automatic,Saloon,OIL,1500,58278,1375000
+Toyota,Axio,2012,Automatic,Saloon,OIL,1500,40000,1465000
+Toyota,Premio,2012,Automatic,Saloon,OIL,1500,63200,2090000
+Toyota,Premio,2012,Automatic,Saloon,OIL,1500,52000,2050000
+Toyota,Allion,2013,Automatic,Saloon,OIL,1500,61000,1950000
+Toyota,Premio,2013,Automatic,Saloon,OIL,1500,1500,2065000
+Toyota,Premio,2013,Automatic,Saloon,OIL,1500,45534,2290000
+Toyota,Allion,2014,Automatic,Saloon,OIL,1500,46500,2095000
+Toyota,Allion,2014,Automatic,Saloon,OIL,1500,36000,2150000
+Toyota,Allion,2014,Automatic,Saloon,OIL,1500,48452,2095000
+Toyota,Allion,2014,Automatic,Saloon,OIL,1500,42000,2120000
+Toyota,Auris,2014,Automatic,Saloon,OIL,1500,61000,1650000
+Toyota,Premio,2014,Automatic,Saloon,OIL,1500,37521,2300000
+Toyota,Premio,2014,Automatic,Saloon,OIL,1500,55000,2299000
+Toyota,Premio,2014,Automatic,Saloon,OIL,1500,48277,2265000
+Honda,Vezel,2014,Automatic,Saloon,OIL,1500,35765,2110000
+Toyota,Yaris,2014,Automatic,Saloon,OIL,1300,35000,1380000
+Toyota,Yaris,2014,Automatic,Saloon,OIL,1300,33000,1380000
+Hyundai,Accent,2015,Automatic,Saloon,OIL,1400,217,1870000
+Toyota,Allion,2015,Automatic,Saloon,OIL,1500,77000,2395000
+Toyota,Allion,2015,Automatic,Saloon,OIL,1500,55000,2290000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,35000,880000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,35000,880000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,63932,1770000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,77792,1800000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,37000,2400000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,42000,2350000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,42120,2335000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,36700,2395000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,52000,2399000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,69000,1650000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,47312,2380000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,14568,2730000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,29800,2845000
+Mazda,Axela,2016,Automatic,Saloon,OIL,1500,50460,1375000
+Toyota,Axio,2016,Automatic,Saloon,OIL,1500,71000,1900000
+Honda,City,2016,Automatic,Saloon,OIL,1500,54032,1795000
+Honda,Civic,2016,Automatic,Saloon,OIL,1500,27000,2970000
+Toyota,Esquire,2016,Automatic,Saloon,OIL,2000,25000,3680000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,32350,2950000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,27000,2720000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,36217,2820000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,42000,3220000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,36458,2950000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,27147,2750000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,43000,2800000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,30000,2700000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,14500,3050000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,22948,3050000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,47412,3130000
+Toyota,Axio,2017,Automatic,Saloon,OIL,1500,11598,2600000
+Toyota,C-HR,2017,Automatic,Saloon,OIL,1331,36500,2860000
+Honda,Civic,2017,Automatic,Saloon,OIL,1500,17000,3195000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,28277,3065000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,23951,3095000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,25000,2985000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,56000,3400000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,19000,3250000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,43000,2450000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,80000,2480000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,15000,3400000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,308,3150000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,30000,3000000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,32200,3150000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,19000,3680000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,23000,3280000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,25000,3430000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,23000,3550000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,12975,3500000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,5000,3800000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,22,3770000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,6500,3900000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,7000,3900000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,17000,3799999
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,6000,3740000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,8785,3890000
+Toyota,Premio,2020,Automatic,Saloon,OIL,1500,6,3880000
+Toyota,RAV4,1999,Automatic,SUV / 4x4,OIL,2000,55000,850000
+Toyota,Hilux,2001,Manual,SUV / 4x4,OIL,3400,120000,1900000
+Toyota,Noah,2003,Automatic,SUV / 4x4,OIL,2000,80000,965000
+Mitsubishi,Pajero,2003,Automatic,SUV / 4x4,OIL,2972,90000,1395000
+Nissan,X-Trail,2004,Automatic,SUV / 4x4,OIL,2000,62000,1295000
+Honda,CR-V,2005,Automatic,SUV / 4x4,OIL,2400,89000,1250000
+Toyota,RAV4,2005,Automatic,SUV / 4x4,OIL,2362,54000,1650000
+Toyota,RAV4,2006,Automatic,SUV / 4x4,OIL,2400,51000,1675000
+Toyota,Rush,2006,Automatic,SUV / 4x4,OIL,1500,88650,1120000
+Toyota,Rush,2007,Automatic,SUV / 4x4,OIL,1500,57650,1250000
+Toyota,RAV4,2009,Automatic,SUV / 4x4,OIL,2000,56000,1150000
+Toyota,Rush,2009,Automatic,SUV / 4x4,OIL,1500,47521,1260000
+Nissan,X-Trail,2009,Automatic,SUV / 4x4,OIL,2000,52000,1880000
+Nissan,Juke,2010,Automatic,SUV / 4x4,OIL,1500,18404,1480000
+Mitsubishi,Outlandar,2010,Automatic,SUV / 4x4,OIL,2000,53000,1950000
+Mitsubishi,Outlandar,2010,Automatic,SUV / 4x4,OIL,2000,68211,2165000
+Hyundai,Tucson,2010,Automatic,SUV / 4x4,OIL,2000,62000,1650000
+Nissan,X-Trail,2010,Automatic,SUV / 4x4,OIL,2000,63200,1950000
+Nissan,Juke,2011,Automatic,SUV / 4x4,OIL,1500,54087,1620000
+Hyundai,Tucson,2011,Automatic,SUV / 4x4,OIL,2000,55000,1850000
+Nissan,X-Trail,2011,Automatic,SUV / 4x4,OIL,2000,52436,2260000
+Honda,CR-V,2012,Automatic,SUV / 4x4,OIL,2000,32435,2850000
+Nissan,X-Trail,2012,Automatic,SUV / 4x4,OIL,2000,33000,2340000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,35500,2100000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,41500,2090000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,28000,2150000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,60735,2150000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,37117,2275000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,6170,2430000
+Nissan,X-Trail,2014,Automatic,SUV / 4x4,OIL,2000,43651,3250000
+Nissan,Juke,2015,Automatic,SUV / 4x4,OIL,1500,54000,1270000
+Honda,Vezel,2015,Automatic,SUV / 4x4,OIL,1500,55647,2185000
+Honda,Vezel,2015,Automatic,SUV / 4x4,OIL,1500,43135,2225000
+Nissan,Juke,2016,Automatic,SUV / 4x4,OIL,1500,69000,1220000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,OIL,2000,54434,4150000
+Toyota,Hiace,2017,Automatic,SUV / 4x4,OIL,2000,33000,3380000
+Nissan,X-Trail,2020,Automatic,SUV / 4x4,OIL,2000,11000,5295000
+Honda,CR-V,2021,Automatic,SUV / 4x4,OIL,1500,325,5990000
+Toyota,Fielder,2011,Automatic,Estate,LPG and OIL,1500,65000,1215000
+Toyota,Fielder,2011,Automatic,Estate,LPG and OIL,1500,58250,1199000
+Toyota,Vitz,2008,Automatic,Hatchback,LPG and OIL,1000,75000,700000
+Toyota,Vitz,2011,Automatic,Hatchback,LPG and OIL,1320,57580,1095000
+Toyota,Noah,2004,Automatic,MPV,LPG and OIL,2000,85320,999999
+Toyota,Corolla,1993,Automatic,Saloon,LPG and OIL,1331,96000,390000
+Nissan,Sunny,2003,Automatic,Saloon,LPG and OIL,1500,65000,670000
+Nissan,Sunny,2003,Automatic,Saloon,LPG and OIL,1500,60000,650000
+Toyota,Allion,2004,Automatic,Saloon,LPG and OIL,1500,61234,1320000
+Toyota,Probox,2004,Automatic,Saloon,LPG and OIL,1500,96000,530000
+Toyota,Allion,2006,Automatic,Saloon,LPG and OIL,1500,65230,1345000
+Toyota,Noah,2010,Automatic,Saloon,LPG and OIL,2000,53000,1895000
+Toyota,Premio,2010,Automatic,Saloon,LPG and OIL,1500,48000,1880000
+Toyota,Allion,2011,Automatic,Saloon,LPG and OIL,1500,86245,1820000
+Toyota,Axio,2011,Automatic,Saloon,LPG and OIL,1500,62000,1310000
+Toyota,Premio,2012,Automatic,Saloon,LPG and OIL,1500,39000,2050000
+Toyota,Axio,2013,Automatic,Saloon,LPG and OIL,1500,57285,1525000
+Toyota,Axio,2013,Automatic,Saloon,LPG and OIL,1500,47800,1485000
+Toyota,Premio,2013,Automatic,Saloon,LPG and OIL,1500,38400,2075000
+Toyota,Land Cruiser,1995,Automatic,SUV / 4x4,LPG and OIL,4500,85000,1745000
+Toyota,RAV4,2005,Automatic,SUV / 4x4,LPG and OIL,2362,63000,1590000
+Toyota,Fielder,2014,Automatic,Estate,OIL,1500,63000,1750000
+Mazda,Axela,2014,Automatic,Saloon,OIL,1500,10000,2200000
+Mazda,Axela,2014,Automatic,Saloon,OIL,1500,111000,2150000
+Toyota,Other Model,2013,Automatic,Hatchback,OIL,1500,42000,1115000
+Toyota,Noah,2005,Automatic,MPV,OIL,1800,49000,1550000
+Toyota,Hiace,2015,Automatic,MPV,OIL,1500,60000,970000
+Toyota,Hiace,2015,Automatic,MPV,OIL,2000,57000,2460000
+Toyota,Hiace,2015,Automatic,MPV,OIL,2000,55000,2930000
+Toyota,Noah,2015,Automatic,MPV,OIL,2000,75000,3030000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,57000,2320000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,59000,2320000
+Toyota,Noah,2016,Automatic,MPV,OIL,1500,55000,1100000
+Toyota,Noah,2016,Automatic,MPV,OIL,2000,55000,3380000
+Toyota,Noah,2016,Automatic,MPV,OIL,2000,68000,3150000
+Toyota,Hiace,2017,Automatic,MPV,OIL,2000,65000,3480000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,33000,3090000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,75000,2880000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,35568,2550000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,25204,2800000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,25000,2800000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,42556,2930000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,65000,3250000
+Toyota,Other Model,1992,Automatic,Hatchback,CNG and OIL,1331,135773,350000
+Toyota,Other Model,1996,Manual,MPV,CNG and OIL,1800,75000,375000
+Toyota,Noah,2002,Automatic,MPV,CNG and OIL,1800,60000,980000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,1800,98000,650000
+Toyota,Noah,2003,Automatic,MPV,CNG and OIL,2000,82842,935000
+Toyota,Hiace,2004,Automatic,MPV,CNG and OIL,2000,90000,650000
+Toyota,Noah,2004,Automatic,MPV,CNG and OIL,1800,95000,795000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,95000,1190000
+Toyota,Noah,2009,Automatic,MPV,CNG and OIL,1800,90000,650000
+Toyota,Corolla,1992,Automatic,Saloon,CNG and OIL,1500,1387,365000
+Toyota,Corolla,1992,Automatic,Saloon,CNG and OIL,1500,95000,350000
+Mitsubishi,Lancer,1999,Automatic,Saloon,CNG and OIL,1500,70000,485000
+Toyota,Allion,2001,Automatic,Saloon,CNG and OIL,1500,75000,995000
+Toyota,Corsa,2001,Manual,Saloon,CNG and OIL,1331,11000,380000
+Nissan,Bluebird,2003,Automatic,Saloon,CNG and OIL,1500,30000,670000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1300,72000,810000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,25000,950000
+Toyota,Corolla,2006,Automatic,Saloon,CNG and OIL,1500,72000,1080000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,92000,1550000
+Toyota,Allion,2009,Automatic,Saloon,CNG and OIL,1500,75000,1695000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,52341,1290000
+Toyota,Axio,2012,Automatic,Saloon,CNG and OIL,1500,45000,1495000
+Nissan,Carryboy,2006,Manual,SUV / 4x4,CNG and OIL,2400,97000,750000
+Toyota,Probox,2003,Automatic,Estate,CNG and OIL,1500,93000,580000
+Toyota,Probox,2004,Automatic,Estate,CNG and OIL,1500,93000,640000
+Toyota,Fielder,2009,Automatic,Estate,CNG and OIL,1500,89601,1165000
+Toyota,Probox,2012,Automatic,Estate,CNG and OIL,1500,63000,850000
+Toyota,ist,2004,Automatic,Hatchback,CNG and OIL,1300,50000,765000
+Toyota,Noah,1998,Automatic,MPV,CNG and OIL,2000,80000,699000
+Toyota,TownAce,2003,Automatic,MPV,CNG and OIL,1800,99500,1090000
+Toyota,Noah,2004,Automatic,MPV,CNG and OIL,2000,75000,1175000
+Toyota,Noah,2005,Automatic,MPV,CNG and OIL,2000,78000,1145000
+Toyota,Noah,2006,Automatic,MPV,CNG and OIL,1800,125000,1250000
+Toyota,Hiace,2010,Automatic,MPV,CNG and OIL,2000,98500,1880000
+Toyota,Noah,2010,Automatic,MPV,CNG and OIL,1500,95000,425000
+Toyota,Noah,2010,Automatic,MPV,CNG and OIL,2000,69000,1950000
+Toyota,LiteAce,2011,Automatic,MPV,CNG and OIL,1500,100000,425000
+Toyota,Noah,2011,Automatic,MPV,CNG and OIL,2000,65000,2150000
+Toyota,Noah,2012,Automatic,MPV,CNG and OIL,2000,77000,2270000
+Toyota,Hiace,2015,Automatic,MPV,CNG and OIL,2000,42344,2200000
+Toyota,Hiace,2015,Automatic,MPV,CNG and OIL,2000,34567,2198000
+Toyota,Hiace,2015,Automatic,MPV,CNG and OIL,2000,45677,2199000
+Toyota,Corolla,1992,Automatic,Saloon,CNG and OIL,1500,100000,350000
+Toyota,Corolla,1996,Automatic,Saloon,CNG and OIL,1331,80000,385000
+Toyota,Corolla,1997,Automatic,Saloon,CNG and OIL,1500,95865,545000
+Toyota,Corolla,1999,Automatic,Saloon,CNG and OIL,1331,96352,345000
+Toyota,Corolla,2000,Automatic,Saloon,CNG and OIL,1500,136000,670000
+Toyota,Sprinter,2000,Automatic,Saloon,CNG and OIL,1500,50000,575000
+Toyota,Allion,2002,Automatic,Saloon,CNG and OIL,1500,95000,965000
+Toyota,Corolla,2003,Automatic,Saloon,CNG and OIL,1500,122850,855000
+Toyota,Probox,2003,Automatic,Saloon,CNG and OIL,1500,65000,550000
+Toyota,Allion,2004,Automatic,Saloon,CNG and OIL,1500,98500,1130000
+Toyota,Corolla,2004,Automatic,Saloon,CNG and OIL,1500,99750,945000
+Toyota,Corolla,2005,Automatic,Saloon,CNG and OIL,1500,98500,1090000
+Toyota,Premio,2007,Automatic,Saloon,CNG and OIL,1500,98500,1490000
+Toyota,Fielder,2008,Automatic,Saloon,CNG and OIL,1500,111000,1080000
+Toyota,Other Model,2008,Automatic,Saloon,CNG and OIL,1500,53000,1060000
+Toyota,Axio,2010,Automatic,Saloon,CNG and OIL,1500,65000,1290000
+Toyota,Allion,2011,Automatic,Saloon,CNG and OIL,1500,42100,1745000
+Toyota,Allion,2011,Automatic,Saloon,CNG and OIL,1500,66565,1800000
+Toyota,Premio,2011,Automatic,Saloon,CNG and OIL,1500,64000,1970000
+Toyota,Allion,2012,Automatic,Saloon,CNG and OIL,1500,52000,1890000
+Toyota,Axio,2012,Automatic,Saloon,CNG and OIL,1500,62000,1320000
+Toyota,Premio,2012,Automatic,Saloon,CNG and OIL,1500,27000,2050000
+Toyota,Premio,2013,Automatic,Saloon,CNG and OIL,1500,59698,2150000
+Toyota,Premio,2014,Automatic,Saloon,CNG and OIL,1500,50000,2280000
+Toyota,Hilux,2001,Automatic,SUV / 4x4,CNG and OIL,2700,89260,1500000
+Toyota,RAV4,2005,Automatic,SUV / 4x4,CNG and OIL,1800,74174,1350000
+Toyota,Rush,2008,Automatic,SUV / 4x4,CNG and OIL,1500,54146,1050000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,33250,1800000
+Toyota,Fielder,2016,Automatic,Estate,HYBRID,1500,36520,1700000
+Toyota,Aqua,2015,Automatic,Hatchback,HYBRID,1500,66000,1480000
+Toyota,Aqua,2015,Automatic,Hatchback,HYBRID,1500,32510,1400000
+Toyota,Aqua,2015,Automatic,Hatchback,HYBRID,1500,65222,1450000
+Toyota,Aqua,2016,Automatic,Hatchback,HYBRID,1500,32190,1390000
+Honda,Fit,2016,Automatic,Hatchback,HYBRID,1500,34790,1490000
+Toyota,C-HR,2017,Automatic,Hatchback,HYBRID,1800,21963,3150000
+Toyota,C-HR,2017,Automatic,Hatchback,HYBRID,1800,15038,3050000
+Toyota,C-HR,2017,Automatic,Hatchback,HYBRID,1800,21683,3050000
+Toyota,Noah,2015,Automatic,MPV,HYBRID,1800,34420,2450000
+Toyota,Noah,2015,Automatic,MPV,HYBRID,1800,32510,2400000
+Toyota,Noah,2017,Automatic,MPV,HYBRID,2000,26000,3695000
+Toyota,Noah,2017,Automatic,MPV,HYBRID,2000,44000,4040000
+Toyota,Axio,2014,Automatic,Saloon,HYBRID,1500,32638,1480000
+Toyota,Axio,2015,Automatic,Saloon,HYBRID,1500,46332,1560000
+Toyota,Fielder,2015,Automatic,Saloon,HYBRID,1500,94000,1719996
+Toyota,Fielder,2015,Automatic,Saloon,HYBRID,1500,35420,1900000
+Honda,Grace,2015,Automatic,Saloon,HYBRID,1500,25197,1750000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,56000,1800000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,54946,1840000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,32000,1870000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,35000,1865000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,28450,1800000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,56200,1880000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,69960,1960000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,20800,1750000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,24286,1900000
+Toyota,Axio,2016,Automatic,Saloon,HYBRID,1500,40943,1900000
+Honda,Grace,2016,Automatic,Saloon,HYBRID,1500,58500,2180000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,26450,2250000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,21065,2499000
+Toyota,Prius,2016,Automatic,Saloon,HYBRID,1800,54500,2580000
+Toyota,Sienta,2016,Automatic,Saloon,HYBRID,1500,34126,2130000
+Nissan,X-Trail,2016,Automatic,Saloon,HYBRID,1500,90700,3700000
+Toyota,Premio,2017,Automatic,Saloon,HYBRID,1500,52552,2780000
+Toyota,Premio,2018,Automatic,Saloon,HYBRID,1500,4839,3600000
+Toyota,Premio,2019,Automatic,Saloon,HYBRID,1500,18452,3710000
+Honda,Vezel,2016,Automatic,SUV / 4x4,HYBRID,1500,50000,2950000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,38855,3665000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,42000,3600000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,53000,3620000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,62000,3590000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,65380,3770000
+Nissan,X-Trail,2016,Automatic,SUV / 4x4,HYBRID,2000,90100,3740000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,34917,3290000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,18225,3100000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,28900,3290000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,62370,3390000
+Toyota,C-HR,2017,Automatic,SUV / 4x4,HYBRID,1800,73500,3200000
+Nissan,X-Trail,2017,Automatic,SUV / 4x4,HYBRID,2000,71664,4080000
+Nissan,X-Trail,2017,Automatic,SUV / 4x4,HYBRID,2000,71500,3990000
+Nissan,X-Trail,2017,Automatic,SUV / 4x4,HYBRID,2000,48419,4180000
+Toyota,C-HR,2018,Automatic,SUV / 4x4,HYBRID,1800,28970,3348000
+Honda,Vezel,2018,Automatic,SUV / 4x4,HYBRID,1500,33142,3250000
+Nissan,X-Trail,2018,Automatic,SUV / 4x4,HYBRID,2000,20100,4520000
+Toyota,Rush,2007,Automatic,Hatchback,OIL,1500,90000,1180000
+Toyota,Other Model,2008,Automatic,Hatchback,OIL,1000,70000,850000
+Toyota,Noah,2011,Automatic,MPV,OIL,2000,52110,2180000
+Toyota,Hiace,2015,Automatic,MPV,OIL,2000,67000,2980000
+Toyota,Hiace,2015,Automatic,MPV,OIL,2000,39467,1390000
+Toyota,Hiace,2015,Automatic,MPV,OIL,2000,43675,2250000
+Toyota,Noah,2015,Automatic,MPV,OIL,1800,35854,2400000
+Toyota,Noah,2015,Automatic,MPV,OIL,2000,45310,2950000
+Toyota,TownAce,2015,Automatic,MPV,OIL,1500,27420,930000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,65000,1490000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,87000,2320000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,48000,3100000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,72330,3280000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,31457,2900000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,88515,2350000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,42185,2850000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,39718,2300000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,46810,2300000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,39807,2850000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,43108,2950000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,43107,2950000
+Toyota,Hiace,2016,Automatic,MPV,OIL,2000,65214,2280000
+Toyota,Noah,2016,Automatic,MPV,OIL,2000,77000,3000000
+Toyota,Noah,2016,Automatic,MPV,OIL,1800,35874,2600000
+Toyota,Noah,2016,Automatic,MPV,OIL,1800,35210,2500000
+Toyota,Noah,2016,Automatic,MPV,OIL,2000,88700,3340000
+Toyota,Hiace,2017,Automatic,MPV,OIL,2000,90194,3379999
+Toyota,Hiace,2017,Automatic,MPV,OIL,2000,64820,3390000
+Toyota,Allion,2002,Automatic,Saloon,OIL,1500,85271,1065000
+Toyota,Corolla,2004,Automatic,Saloon,OIL,1500,79500,940000
+Toyota,Allion,2011,Automatic,Saloon,OIL,1500,35689,1800000
+Toyota,Axio,2012,Automatic,Saloon,OIL,1500,56000,1420000
+Toyota,Axio,2012,Automatic,Saloon,OIL,150,55000,1375000
+Toyota,Premio,2012,Automatic,Saloon,OIL,1500,60000,2090000
+Toyota,Axio,2014,Automatic,Saloon,OIL,1500,36000,1498000
+Toyota,Fielder,2014,Automatic,Saloon,OIL,1500,45210,1549000
+Toyota,Premio,2014,Automatic,Saloon,OIL,1500,32131,2280000
+Toyota,Premio,2014,Automatic,Saloon,OIL,1500,23000,2370000
+Toyota,Probox,2014,Automatic,Saloon,OIL,1500,36420,1250000
+Toyota,Allion,2015,Automatic,Saloon,OIL,1500,46321,2340000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,55000,1850000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,28420,1700000
+Toyota,Axio,2015,Automatic,Saloon,OIL,1500,26014,1900000
+Toyota,Premio,2015,Automatic,Saloon,OIL,1500,49697,2370000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,19000,2630000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,26587,2900000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,28136,3150000
+Toyota,Allion,2016,Automatic,Saloon,OIL,1500,8973,2980000
+Mazda,Axela,2016,Automatic,Saloon,OIL,1500,40000,2250000
+Toyota,Axio,2016,Automatic,Saloon,OIL,1500,33510,1650000
+Toyota,Axio,2016,Automatic,Saloon,OIL,1500,34560,1700000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,6806,3185000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,34560,2800000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,38450,2750000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,12900,3280000
+Toyota,Premio,2016,Automatic,Saloon,OIL,1500,27189,2850000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,34713,3040000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,20000,2690000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,32891,3280000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,60000,3250000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,3078,2800000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,7100,2940000
+Toyota,Allion,2017,Automatic,Saloon,OIL,1500,27165,2850000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,28987,3080000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,24000,3100000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,99140,3285000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,25204,2795000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,10890,2980000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,35210,3250000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,24000,3090000
+Toyota,Premio,2017,Automatic,Saloon,OIL,1500,66100,3320000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,20000,3100000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,40300,2980000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,32000,3120000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,21000,3210000
+Toyota,Allion,2018,Automatic,Saloon,OIL,1500,37873,2970000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,43000,3650000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,31542,3650000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,39510,3580000
+Toyota,Premio,2018,Automatic,Saloon,OIL,1500,10370,3630000
+Toyota,Allion,2019,Automatic,Saloon,OIL,1500,5000,3575000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,11295,3720000
+Toyota,Premio,2019,Automatic,Saloon,OIL,1500,5000,3725000
+Toyota,Hilux,1995,Automatic,SUV / 4x4,OIL,2000,105000,900000
+Toyota,RAV4,2004,Automatic,SUV / 4x4,OIL,1800,65000,1550000
+Toyota,RAV4,2005,Automatic,SUV / 4x4,OIL,2400,86000,1590000
+Hyundai,Tucson,2010,Automatic,SUV / 4x4,OIL,2000,46569,1600000
+Hyundai,Tucson,2011,Automatic,SUV / 4x4,OIL,2000,29698,1500000
+Honda,CR-V,2012,Automatic,SUV / 4x4,OIL,2000,44428,2950000
+Honda,Vezel,2014,Automatic,SUV / 4x4,OIL,1500,22908,2250000
+Toyota,Hiace,2016,Automatic,SUV / 4x4,OIL,1500,44560,2300000
+Toyota,Hiace,2016,Automatic,SUV / 4x4,OIL,2000,34560,2300000
+Toyota,Hiace,2016,Automatic,SUV / 4x4,OIL,2000,34560,2900000
+Toyota,Hiace,2016,Automatic,SUV / 4x4,OIL,2000,35640,2850000
+Nissan,X-Trail,2017,Automatic,SUV / 4x4,OIL,2000,30214,4000000
+Honda,CR-V,2020,Automatic,SUV / 4x4,OIL,1500,509,6200000
+Toyota,Noah,2003,Automatic,MPV,LPG and OIL,2000,78990,999000
+Toyota,Corolla,2005,Automatic,Saloon,LPG and OIL,1300,85000,850000
+Toyota,Premio,2013,Automatic,Saloon,LPG and OIL,1500,59000,2180000
