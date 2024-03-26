@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348995407972",
+    "project_id": "used-car-price-predictio-45b9f",
+    "storage_bucket": "used-car-price-predictio-45b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348995407972:android:d9c753bf2ff0f416b20f71",
+        "android_client_info": {
+          "package_name": "com.example.predict_used_car_price"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJw7s8jCPZks09QiVkoeW3wRjO7KRxi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

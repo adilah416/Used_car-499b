@@ -1,0 +1,17 @@
+click
+colorama
+Flask
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy
+pandas
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+threadpoolctl==2.2.0
+Werkzeug==2.0.1
+xgboost==0.90
